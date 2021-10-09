@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=finostrozav" alt="finostrozav" /></a> </p>
 
-- 🔭 Actualmente trabajo en **Corelabs**
+- 🔭 Actualmente trabajo en **Nobel TI**
 
-- 🌱 Actualmente aprendiendo **NodeJS, Express, Mongo, Socket.io**
+- 🌱 Actualmente aprendiendo **NodeJS, Express, Mongo, Socket.io, Spring**
 
 - 💬 Preguntame sobre **Java, Oracle, JS, DB's**
 
